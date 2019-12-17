@@ -15,7 +15,7 @@
     "@types/jasmine": "2.8.14",
     "@types/jasminewd2": "2.0.6",
     "@types/node": "8.9.5",
-    "bootstrap": "4.2.1",
+    "bootstrap": "4.4.1",
     "core-js": "2.6.2",
     "node-sass": "^4.13.0",
     "rxjs": "6.3.3",
